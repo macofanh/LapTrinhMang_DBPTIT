@@ -2,7 +2,7 @@ import java.io.*;
 import java.net.*;
 import java.util.*;
 
-public class TCPA9OSoV5A {
+public class TCP_CHARACTER1 {
     public static void main(String[] args) {
         String host = "36.50.135.242";
         int port = 2208;

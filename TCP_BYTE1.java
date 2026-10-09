@@ -2,7 +2,7 @@ import java.io.*;
 import java.net.Socket;
 import java.util.Arrays;
 
-public class TCPiEhsiYZT {
+public class TCP_BYTE1 {
     public static void main(String[] args) {
         String host = "36.50.135.242";
         int port = 2206;

@@ -1,7 +1,7 @@
 import java.io.*;
 import java.net.Socket;
 
-public class TCPVudhbZPM {
+public class TCP_DATA2 {
 
     public static char shiftChar(char c, int shift) {
         int s = (shift % 26 + 26) % 26;

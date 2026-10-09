@@ -3,7 +3,7 @@ import java.io.InputStream;
 import java.io.OutputStream;
 import java.net.Socket;
 
-public class TCP1WcqlHoC {
+public class TCP_BYTE2 {
     public static void main(String[] args) {
         String host = "36.50.135.242";
         int port = 2206;
